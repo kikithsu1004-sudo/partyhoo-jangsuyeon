@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://kikithsu1004-sudo.github.io/partyhoo-jangsuyeon/sitemap.xml
